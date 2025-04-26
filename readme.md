@@ -12,7 +12,7 @@
 </p>
 
 ## Usage
-0. Stremlit is a python package used to build web apps, make sure you have it installed first.
+0. Streamlit is a python package used to build web apps, make sure you have it installed first.
 1. In your cwd of streamlit project, create a ".streamlit" folder if it doesnt already exist.
 2. Choose your rosepine theme.
 3. Put the "config.toml" in the ".streamlit" folder.
